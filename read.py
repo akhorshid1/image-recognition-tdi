@@ -127,7 +127,7 @@ class main():
         df_truncated_description = pd.DataFrame({'Truncated Description': truncated_description})
         self.df = self.df.join(df_truncated_description)
         self.df = self.df[['File Name', 'Sliced File Name', 'Truncated Description', 'Description', 'Certainty']]         
-        self.df.to_csv('Organized Results' + '.csv', index=False)
+        self.df.to_csv('organized_results_noduplicates' + '.csv', index=False)
         
         return self.df
     
@@ -143,9 +143,13 @@ class main():
         self.df1 = self.df.groupby(['File Name'])['Truncated Description'].apply(list).reset_index() # reset_index() restores dataframe to conventional structure
         df_certainty = self.df.groupby(['File Name'])['Certainty'].apply(list).reset_index()
         self.df1 = self.df1.join(df_certainty['Certainty'])   # adding the list of certainties
+        # Dropping duplicates from the list of descriptions of each image:
+        self.df1['Truncated Description'] = list(map(set,self.df1['Truncated Description']))
+        # Converting set (description) into list:
+        self.df1['Truncated Description'] = self.df1['Truncated Description'].apply(list)
+        
         
         file_index = self.df1['File Name'][self.df1['File Name'] == file_name].index[0] # index value of the file
-        
         file_values = self.df1['Truncated Description'][file_index]
         
         
@@ -163,7 +167,8 @@ class main():
                     for k in range(0, len(file_values)):
                         
                         if (file_values[k] == self.df1['Truncated Description'][i][j]):
-                            score[i] = score[i] + self.df1['Certainty'][i][j]
+#                            score[i] = score[i] + 1
+                            score[i] = score[i] + self.df1['Certainty'][i][j] + 1
                         else:
                             pass
         
@@ -183,7 +188,7 @@ class main():
         ax  = fig.add_subplot(2,3,2)
         ax.set_title('Sample image: ' + str(file_name), fontsize = 12)
         plt.imshow(tile)
-        plt.xlabel(str(file_values[1:]), fontsize = 8)
+        plt.xlabel(str(file_values), fontsize = 10)
         x = 3
         
         for i in range(0,3):
@@ -192,11 +197,11 @@ class main():
             ax  = fig.add_subplot(2,3,x)
             ax.set_title('Suggested image: ' + str(self.df1['File Name'][i]), fontsize = 12)
             plt.imshow(tile)
-            plt.xlabel(str(self.df1['Truncated Description'][i][1:]), fontsize = 7)
+            plt.xlabel(str(self.df1['Truncated Description'][i]), fontsize = 9)
                 
         plt.show()
         
-        return self.df1
+        return self.df, self.df1
                 
 
     
@@ -317,5 +322,5 @@ class main():
     
             
 main_class = main()
-file = main_class.compare_histogram()
+file = main_class.obtain_score()
 
