@@ -1,0 +1,501 @@
+File Name,Sliced File Name,Truncated Description,Description,Certainty
+image0,image0.jpg,fur coat,fur coat,0.21577267348766327
+image0,image0_01_01.jpg,neck brace,neck brace,0.21222083270549771
+image0,image0_01_02.jpg,bikini,"bikini, two-piece",0.15037046372890472
+image0,image0_02_01.jpg,Band Aid,Band Aid,0.2768406867980957
+image0,image0_02_02.jpg,fur coat,fur coat,0.22394268214702606
+image1,image1.jpg,cellular telephone,"cellular telephone, cellular phone, cellphone, cell, mobile phone",0.060877274721860886
+image1,image1_01_01.jpg,remote control,"remote control, remote",0.3345492780208588
+image1,image1_01_02.jpg,window shade,window shade,0.09751132875680923
+image1,image1_02_01.jpg,wig,wig,0.12960174679756165
+image1,image1_02_02.jpg,window screen,window screen,0.3557436168193817
+image10,image10.jpg,seat belt,"seat belt, seatbelt",0.6022326946258545
+image10,image10_01_01.jpg,lipstick,"lipstick, lip rouge",0.2284708321094513
+image10,image10_01_02.jpg,wig,wig,0.14335466921329498
+image10,image10_02_01.jpg,mosquito net,mosquito net,0.4118070304393768
+image10,image10_02_02.jpg,wig,wig,0.7044018507003784
+image100,image100.jpg,soap dispenser,soap dispenser,0.4838041067123413
+image100,image100_01_01.jpg,hand blower,"hand blower, blow dryer, blow drier, hair dryer, hair drier",0.09335619211196901
+image100,image100_01_02.jpg,Band Aid,Band Aid,0.2780299484729767
+image100,image100_02_01.jpg,bathtub,"bathtub, bathing tub, bath, tub",0.3048092126846313
+image100,image100_02_02.jpg,plunger,"plunger, plumber's helper",0.2899129390716553
+image11,image11.jpg,bikini,"bikini, two-piece",0.2640019059181213
+image11,image11_01_01.jpg,bikini,"bikini, two-piece",0.19221346080303192
+image11,image11_01_02.jpg,bikini,"bikini, two-piece",0.2169700711965561
+image11,image11_02_01.jpg,wig,wig,0.14748811721801758
+image11,image11_02_02.jpg,brassiere,"brassiere, bra, bandeau",0.6798819899559021
+image12,image12.jpg,sombrero,sombrero,0.9926379919052124
+image12,image12_01_01.jpg,sombrero,sombrero,0.9986019730567932
+image12,image12_01_02.jpg,sombrero,sombrero,0.3795263171195984
+image12,image12_02_01.jpg,trifle,trifle,0.8936718106269836
+image12,image12_02_02.jpg,pitcher,"pitcher, ewer",0.23053550720214844
+image13,image13.jpg,cloak,cloak,0.17272751033306122
+image13,image13_01_01.jpg,cowboy hat,"cowboy hat, ten-gallon hat",0.1039549931883812
+image13,image13_01_02.jpg,Weimaraner,Weimaraner,0.0993959903717041
+image13,image13_02_01.jpg,nail,nail,0.04406246542930603
+image13,image13_02_02.jpg,lens cap,"lens cap, lens cover",0.22270874679088595
+image14,image14.jpg,lipstick,"lipstick, lip rouge",0.11744371056556703
+image14,image14_01_01.jpg,sunglasses,"sunglasses, dark glasses, shades",0.11459863185882567
+image14,image14_01_02.jpg,sunglasses,"sunglasses, dark glasses, shades",0.11790037900209427
+image14,image14_02_01.jpg,lipstick,"lipstick, lip rouge",0.7996375560760498
+image14,image14_02_02.jpg,lipstick,"lipstick, lip rouge",0.43378561735153204
+image15,image15.jpg,bikini,"bikini, two-piece",0.6481480002403259
+image15,image15_01_01.jpg,maillot,"maillot, tank suit",0.23219668865203855
+image15,image15_01_02.jpg,bikini,"bikini, two-piece",0.9322273731231691
+image15,image15_02_01.jpg,bikini,"bikini, two-piece",0.28538623452186584
+image15,image15_02_02.jpg,bikini,"bikini, two-piece",0.33197057247161865
+image16,image16.jpg,sunglasses,"sunglasses, dark glasses, shades",0.19603580236434934
+image16,image16_01_01.jpg,wig,wig,0.2322428524494171
+image16,image16_01_02.jpg,sunglasses,"sunglasses, dark glasses, shades",0.4172933995723725
+image16,image16_02_01.jpg,wig,wig,0.0762227401137352
+image16,image16_02_02.jpg,bonnet,"bonnet, poke bonnet",0.1577899158000946
+image17,image17.jpg,stole,stole,0.5597468018531799
+image17,image17_01_01.jpg,maillot,maillot,0.12656792998313904
+image17,image17_01_02.jpg,stole,stole,0.2911626994609833
+image17,image17_02_01.jpg,ski mask,ski mask,0.8461714386940002
+image17,image17_02_02.jpg,jean,"jean, blue jean, denim",0.9022229313850404
+image18,image18.jpg,wig,wig,0.2619342803955078
+image18,image18_01_01.jpg,lipstick,"lipstick, lip rouge",0.4073330163955689
+image18,image18_01_02.jpg,lipstick,"lipstick, lip rouge",0.8744307160377502
+image18,image18_02_01.jpg,sunglasses,"sunglasses, dark glasses, shades",0.16921068727970126
+image18,image18_02_02.jpg,wig,wig,0.5035637617111206
+image19,image19.jpg,bikini,"bikini, two-piece",0.767211377620697
+image19,image19_01_01.jpg,apiary,"apiary, bee house",0.05415984615683556
+image19,image19_01_02.jpg,maillot,maillot,0.04849610477685928
+image19,image19_02_01.jpg,bikini,"bikini, two-piece",0.8406323194503784
+image19,image19_02_02.jpg,bikini,"bikini, two-piece",0.6134600043296814
+image20,image20.jpg,lipstick,"lipstick, lip rouge",0.5396510958671571
+image20,image20_01_01.jpg,lipstick,"lipstick, lip rouge",0.4641951620578766
+image20,image20_01_02.jpg,lipstick,"lipstick, lip rouge",0.7034630179405212
+image20,image20_02_01.jpg,wig,wig,0.23260690271854398
+image20,image20_02_02.jpg,lipstick,"lipstick, lip rouge",0.7177551388740541
+image21,image21.jpg,sunglasses,"sunglasses, dark glasses, shades",0.7041034698486328
+image21,image21_01_01.jpg,sunglasses,"sunglasses, dark glasses, shades",0.7326515913009644
+image21,image21_01_02.jpg,sunglasses,"sunglasses, dark glasses, shades",0.2956443428993225
+image21,image21_02_01.jpg,pot,"pot, flowerpot",0.5575471520423889
+image21,image21_02_02.jpg,crate,crate,0.129691943526268
+image22,image22.jpg,mortarboard,mortarboard,0.3063037693500519
+image22,image22_01_01.jpg,lipstick,"lipstick, lip rouge",0.2452206462621689
+image22,image22_01_02.jpg,lipstick,"lipstick, lip rouge",0.4733412265777588
+image22,image22_02_01.jpg,seat belt,"seat belt, seatbelt",0.720722496509552
+image22,image22_02_02.jpg,lipstick,"lipstick, lip rouge",0.2015245109796524
+image23,image23.jpg,miniskirt,"miniskirt, mini",0.908804178237915
+image23,image23_01_01.jpg,fur coat,fur coat,0.33090540766716003
+image23,image23_01_02.jpg,cellular telephone,"cellular telephone, cellular phone, cellphone, cell, mobile phone",0.8303756713867188
+image23,image23_02_01.jpg,miniskirt,"miniskirt, mini",0.8965551257133484
+image23,image23_02_02.jpg,miniskirt,"miniskirt, mini",0.2514814138412476
+image24,image24.jpg,bathtub,"bathtub, bathing tub, bath, tub",0.14604094624519348
+image24,image24_01_01.jpg,miniskirt,"miniskirt, mini",0.1075686514377594
+image24,image24_01_02.jpg,maillot,maillot,0.07202842831611632
+image24,image24_02_01.jpg,dishwasher,"dishwasher, dish washer, dishwashing machine",0.15485624969005585
+image24,image24_02_02.jpg,bath towel,bath towel,0.5360702872276306
+image25,image25.jpg,gown,gown,0.15285366773605347
+image25,image25_01_01.jpg,neck brace,neck brace,0.050533179193735116
+image25,image25_01_02.jpg,sunglasses,"sunglasses, dark glasses, shades",0.10692716389894484
+image25,image25_02_01.jpg,wig,wig,0.193907767534256
+image25,image25_02_02.jpg,bikini,"bikini, two-piece",0.4949967563152313
+image26,image26.jpg,car mirror,car mirror,0.7435132265090942
+image26,image26_01_01.jpg,television,"television, television system",0.4490194320678711
+image26,image26_01_02.jpg,scabbard,scabbard,0.21892283856868744
+image26,image26_02_01.jpg,television,"television, television system",0.7431666254997253
+image26,image26_02_02.jpg,television,"television, television system",0.2555271685123444
+image27,image27.jpg,mosquito net,mosquito net,0.3901247680187225
+image27,image27_01_01.jpg,Boston bull,"Boston bull, Boston terrier",0.09330689907073976
+image27,image27_01_02.jpg,shower curtain,shower curtain,0.2518782615661621
+image27,image27_02_01.jpg,lipstick,"lipstick, lip rouge",0.2585160434246063
+image27,image27_02_02.jpg,wig,wig,0.14194966852664948
+image28,image28.jpg,lipstick,"lipstick, lip rouge",0.34229326248168945
+image28,image28_01_01.jpg,lipstick,"lipstick, lip rouge",0.5440330505371094
+image28,image28_01_02.jpg,wig,wig,0.6750302910804749
+image28,image28_02_01.jpg,lipstick,"lipstick, lip rouge",0.16669321060180664
+image28,image28_02_02.jpg,jean,"jean, blue jean, denim",0.08267289400100708
+image29,image29.jpg,sunglasses,"sunglasses, dark glasses, shades",0.465972900390625
+image29,image29_01_01.jpg,sleeping bag,sleeping bag,0.295721173286438
+image29,image29_01_02.jpg,hay,hay,0.21145616471767426
+image29,image29_02_01.jpg,seat belt,"seat belt, seatbelt",0.5928679704666138
+image29,image29_02_02.jpg,sunglasses,"sunglasses, dark glasses, shades",0.7425225377082825
+image3,image3.jpg,bikini,"bikini, two-piece",0.4692186713218689
+image3,image3_01_01.jpg,bikini,"bikini, two-piece",0.1022462546825409
+image3,image3_01_02.jpg,bikini,"bikini, two-piece",0.4094794690608978
+image3,image3_02_01.jpg,maillot,maillot,0.14579418301582334
+image3,image3_02_02.jpg,bikini,"bikini, two-piece",0.3201794326305389
+image30,image30.jpg,hair slide,hair slide,0.226679727435112
+image30,image30_01_01.jpg,syringe,syringe,0.19815047085285187
+image30,image30_01_02.jpg,bonnet,"bonnet, poke bonnet",0.29281142354011536
+image30,image30_02_01.jpg,brassiere,"brassiere, bra, bandeau",0.16972438991069794
+image30,image30_02_02.jpg,wig,wig,0.11026208847761154
+image31,image31.jpg,brassiere,"brassiere, bra, bandeau",0.2396179884672165
+image31,image31_01_01.jpg,lab coat,"lab coat, laboratory coat",0.681833028793335
+image31,image31_01_02.jpg,brassiere,"brassiere, bra, bandeau",0.2038036286830902
+image31,image31_02_01.jpg,maillot,maillot,0.3639580011367798
+image31,image31_02_02.jpg,sarong,sarong,0.369028389453888
+image32,image32.jpg,maze,"maze, labyrinth",0.18980441987514496
+image32,image32_01_01.jpg,chainlink fence,chainlink fence,0.22349710762500766
+image32,image32_01_02.jpg,unicycle,"unicycle, monocycle",0.2404441237449646
+image32,image32_02_01.jpg,tricycle,"tricycle, trike, velocipede",0.18079669773578644
+image32,image32_02_02.jpg,crutch,crutch,0.4442906975746155
+image33,image33.jpg,bikini,"bikini, two-piece",0.7334267497062683
+image33,image33_01_01.jpg,sunglass,sunglass,0.3200950622558594
+image33,image33_01_02.jpg,bikini,"bikini, two-piece",0.2318019419908524
+image33,image33_02_01.jpg,bikini,"bikini, two-piece",0.8522377014160156
+image33,image33_02_02.jpg,bikini,"bikini, two-piece",0.582026481628418
+image34,image34.jpg,spatula,spatula,0.4639968276023865
+image34,image34_01_01.jpg,ping-pong ball,ping-pong ball,0.455193042755127
+image34,image34_01_02.jpg,plunger,"plunger, plumber's helper",0.7780735492706299
+image34,image34_02_01.jpg,wig,wig,0.2839686870574951
+image34,image34_02_02.jpg,brassiere,"brassiere, bra, bandeau",0.5588570833206177
+image35,image35.jpg,bikini,"bikini, two-piece",0.7088331580162048
+image35,image35_01_01.jpg,bikini,"bikini, two-piece",0.26396486163139343
+image35,image35_01_02.jpg,swimming trunks,"swimming trunks, bathing trunks",0.5312846899032593
+image35,image35_02_01.jpg,bikini,"bikini, two-piece",0.42980220913887024
+image35,image35_02_02.jpg,bikini,"bikini, two-piece",0.3781389594078064
+image36,image36.jpg,gasmask,"gasmask, respirator, gas helmet",0.18255014717578888
+image36,image36_01_01.jpg,sunglasses,"sunglasses, dark glasses, shades",0.14175334572792053
+image36,image36_01_02.jpg,gasmask,"gasmask, respirator, gas helmet",0.19435648620128632
+image36,image36_02_01.jpg,pajama,"pajama, pyjama, pj's, jammies",0.1558009833097458
+image36,image36_02_02.jpg,ping-pong ball,ping-pong ball,0.06046992167830467
+image37,image37.jpg,bikini,"bikini, two-piece",0.2733318507671356
+image37,image37_01_01.jpg,bikini,"bikini, two-piece",0.5744901299476624
+image37,image37_01_02.jpg,hair slide,hair slide,0.616327166557312
+image37,image37_02_01.jpg,jean,"jean, blue jean, denim",0.12197954952716827
+image37,image37_02_02.jpg,sunglasses,"sunglasses, dark glasses, shades",0.13639159500598907
+image38,image38.jpg,mask,mask,0.07305125892162323
+image38,image38_01_01.jpg,wig,wig,0.24827469885349274
+image38,image38_01_02.jpg,wardrobe,"wardrobe, closet, press",0.5396769046783447
+image38,image38_02_01.jpg,sliding door,sliding door,0.13280998170375824
+image38,image38_02_02.jpg,refrigerator,"refrigerator, icebox",0.10595658421516417
+image39,image39.jpg,miniskirt,"miniskirt, mini",0.3634330034255981
+image39,image39_01_01.jpg,ice lolly,"ice lolly, lolly, lollipop, popsicle",0.1746392548084259
+image39,image39_01_02.jpg,bikini,"bikini, two-piece",0.3053308725357056
+image39,image39_02_01.jpg,miniskirt,"miniskirt, mini",0.3315942585468292
+image39,image39_02_02.jpg,miniskirt,"miniskirt, mini",0.94659024477005
+image4,image4.jpg,soap dispenser,soap dispenser,0.16876834630966187
+image4,image4_01_01.jpg,cellular telephone,"cellular telephone, cellular phone, cellphone, cell, mobile phone",0.10237275809049606
+image4,image4_01_02.jpg,harmonica,"harmonica, mouth organ, harp, mouth harp",0.13978832960128784
+image4,image4_02_01.jpg,dough,dough,0.051653217524290085
+image4,image4_02_02.jpg,parallel bars,"parallel bars, bars",0.08880581706762314
+image40,image40.jpg,sturgeon,sturgeon,0.6715501546859741
+image40,image40_01_01.jpg,sleeping bag,sleeping bag,0.13782136142253876
+image40,image40_01_02.jpg,ski,ski,0.2656293213367462
+image40,image40_02_01.jpg,jean,"jean, blue jean, denim",0.08633808046579361
+image40,image40_02_02.jpg,sturgeon,sturgeon,0.8127025961875916
+image41,image41.jpg,maillot,maillot,0.2059568911790848
+image41,image41_01_01.jpg,lipstick,"lipstick, lip rouge",0.19707827270030973
+image41,image41_01_02.jpg,lipstick,"lipstick, lip rouge",0.1923006772994995
+image41,image41_02_01.jpg,brassiere,"brassiere, bra, bandeau",0.3896978497505188
+image41,image41_02_02.jpg,maillot,maillot,0.4563828110694885
+image42,image42.jpg,jean,"jean, blue jean, denim",0.5370137095451355
+image42,image42_01_01.jpg,window shade,window shade,0.14142930507659912
+image42,image42_01_02.jpg,suit,"suit, suit of clothes",0.14571648836135864
+image42,image42_02_01.jpg,jean,"jean, blue jean, denim",0.3328631520271301
+image42,image42_02_02.jpg,ski mask,ski mask,0.2378692328929901
+image43,image43.jpg,lipstick,"lipstick, lip rouge",0.9431158304214478
+image43,image43_01_01.jpg,lipstick,"lipstick, lip rouge",0.6883729696273804
+image43,image43_01_02.jpg,brassiere,"brassiere, bra, bandeau",0.1281181424856186
+image43,image43_02_01.jpg,suit,"suit, suit of clothes",0.19053751230239868
+image43,image43_02_02.jpg,seat belt,"seat belt, seatbelt",0.22281141579151156
+image44,image44.jpg,bubble,bubble,0.22302201390266416
+image44,image44_01_01.jpg,piggy bank,"piggy bank, penny bank",0.3042086064815521
+image44,image44_01_02.jpg,ping-pong ball,ping-pong ball,0.15161168575286865
+image44,image44_02_01.jpg,sunglasses,"sunglasses, dark glasses, shades",0.0887499526143074
+image44,image44_02_02.jpg,fur coat,fur coat,0.16007965803146362
+image45,image45.jpg,seat belt,"seat belt, seatbelt",0.9590337872505188
+image45,image45_01_01.jpg,neck brace,neck brace,0.484977662563324
+image45,image45_01_02.jpg,seat belt,"seat belt, seatbelt",0.9907364249229432
+image45,image45_02_01.jpg,seat belt,"seat belt, seatbelt",0.33017125725746155
+image45,image45_02_02.jpg,seat belt,"seat belt, seatbelt",0.8271108865737915
+image46,image46.jpg,cellular telephone,"cellular telephone, cellular phone, cellphone, cell, mobile phone",0.05482480674982071
+image46,image46_01_01.jpg,cellular telephone,"cellular telephone, cellular phone, cellphone, cell, mobile phone",0.11259502917528152
+image46,image46_01_02.jpg,mosquito net,mosquito net,0.16195963323116302
+image46,image46_02_01.jpg,hand blower,"hand blower, blow dryer, blow drier, hair dryer, hair drier",0.10638679563999176
+image46,image46_02_02.jpg,wardrobe,"wardrobe, closet, press",0.2313743829727173
+image47,image47.jpg,maillot,maillot,0.20428672432899475
+image47,image47_01_01.jpg,stethoscope,stethoscope,0.08982431888580322
+image47,image47_01_02.jpg,neck brace,neck brace,0.08001364767551422
+image47,image47_02_01.jpg,bikini,"bikini, two-piece",0.3132709562778473
+image47,image47_02_02.jpg,maillot,maillot,0.13002954423427582
+image48,image48.jpg,remote control,"remote control, remote",0.1352900117635727
+image48,image48_01_01.jpg,harmonica,"harmonica, mouth organ, harp, mouth harp",0.4018904268741608
+image48,image48_01_02.jpg,iPod,iPod,0.8408165574073792
+image48,image48_02_01.jpg,miniskirt,"miniskirt, mini",0.4837649464607239
+image48,image48_02_02.jpg,seat belt,"seat belt, seatbelt",0.6095022559165955
+image49,image49.jpg,miniskirt,"miniskirt, mini",0.06839251518249513
+image49,image49_01_01.jpg,Polaroid camera,"Polaroid camera, Polaroid Land camera",0.3955281972885132
+image49,image49_01_02.jpg,hair spray,hair spray,0.20643620193004608
+image49,image49_02_01.jpg,hand blower,"hand blower, blow dryer, blow drier, hair dryer, hair drier",0.36009567975997925
+image49,image49_02_02.jpg,bow,bow,0.19272929430007932
+image5,image5.jpg,Bernese mountain dog,Bernese mountain dog,0.2801277935504913
+image5,image5_01_01.jpg,Greater Swiss Mountain dog,Greater Swiss Mountain dog,0.5407461524009705
+image5,image5_01_02.jpg,Appenzeller,Appenzeller,0.2405762225389481
+image5,image5_02_01.jpg,Bernese mountain dog,Bernese mountain dog,0.3088858723640442
+image5,image5_02_02.jpg,Bernese mountain dog,Bernese mountain dog,0.2543972134590149
+image50,image50.jpg,maillot,"maillot, tank suit",0.33527112007141113
+image50,image50_01_01.jpg,bikini,"bikini, two-piece",0.456531435251236
+image50,image50_01_02.jpg,bikini,"bikini, two-piece",0.3735428154468536
+image50,image50_02_01.jpg,sarong,sarong,0.16765426099300385
+image50,image50_02_02.jpg,balance beam,"balance beam, beam",0.6075734496116638
+image51,image51.jpg,cellular telephone,"cellular telephone, cellular phone, cellphone, cell, mobile phone",0.478444516658783
+image51,image51_01_01.jpg,ski,ski,0.4598354995250702
+image51,image51_01_02.jpg,cellular telephone,"cellular telephone, cellular phone, cellphone, cell, mobile phone",0.15058448910713196
+image51,image51_02_01.jpg,ski,ski,0.0651918426156044
+image51,image51_02_02.jpg,miniskirt,"miniskirt, mini",0.22406746447086331
+image52,image52.jpg,seat belt,"seat belt, seatbelt",0.8362268805503845
+image52,image52_01_01.jpg,sunglasses,"sunglasses, dark glasses, shades",0.347375363111496
+image52,image52_01_02.jpg,television,"television, television system",0.321134477853775
+image52,image52_02_01.jpg,seat belt,"seat belt, seatbelt",0.995232880115509
+image52,image52_02_02.jpg,jersey,"jersey, T-shirt, tee shirt",0.6316754221916199
+image53,image53.jpg,toy poodle,toy poodle,0.4943833649158478
+image53,image53_01_01.jpg,toy poodle,toy poodle,0.2765151560306549
+image53,image53_01_02.jpg,Dandie Dinmont,"Dandie Dinmont, Dandie Dinmont terrier",0.3379980027675629
+image53,image53_02_01.jpg,fur coat,fur coat,0.8694401383399963
+image53,image53_02_02.jpg,West Highland white terrier,West Highland white terrier,0.11774905025959015
+image54,image54.jpg,pajama,"pajama, pyjama, pj's, jammies",0.2795129418373108
+image54,image54_01_01.jpg,bikini,"bikini, two-piece",0.13354666531085968
+image54,image54_01_02.jpg,maillot,maillot,0.17429059743881226
+image54,image54_02_01.jpg,sarong,sarong,0.3045019209384918
+image54,image54_02_02.jpg,brassiere,"brassiere, bra, bandeau",0.3713023364543915
+image55,image55.jpg,bikini,"bikini, two-piece",0.9025180339813232
+image55,image55_01_01.jpg,maillot,maillot,0.5424448847770691
+image55,image55_01_02.jpg,sunglass,sunglass,0.3370361626148224
+image55,image55_02_01.jpg,bikini,"bikini, two-piece",0.7261584997177124
+image55,image55_02_02.jpg,swimming trunks,"swimming trunks, bathing trunks",0.3465627729892731
+image56,image56.jpg,gown,gown,0.11697626113891603
+image56,image56_01_01.jpg,brassiere,"brassiere, bra, bandeau",0.3041241466999054
+image56,image56_01_02.jpg,wig,wig,0.23587337136268616
+image56,image56_02_01.jpg,bikini,"bikini, two-piece",0.5339385271072388
+image56,image56_02_02.jpg,pajama,"pajama, pyjama, pj's, jammies",0.117122620344162
+image57,image57.jpg,picket fence,"picket fence, paling",0.8387073874473572
+image57,image57_01_01.jpg,miniskirt,"miniskirt, mini",0.11639510095119475
+image57,image57_01_02.jpg,picket fence,"picket fence, paling",0.16145610809326172
+image57,image57_02_01.jpg,miniskirt,"miniskirt, mini",0.7801308631896973
+image57,image57_02_02.jpg,brassiere,"brassiere, bra, bandeau",0.1601845622062683
+image58,image58.jpg,seashore,"seashore, coast, seacoast, sea-coast",0.3346188962459564
+image58,image58_01_01.jpg,sandbar,"sandbar, sand bar",0.07687706500291824
+image58,image58_01_02.jpg,seashore,"seashore, coast, seacoast, sea-coast",0.5706043243408203
+image58,image58_02_01.jpg,seashore,"seashore, coast, seacoast, sea-coast",0.08931125700473785
+image58,image58_02_02.jpg,seashore,"seashore, coast, seacoast, sea-coast",0.17294824123382568
+image59,image59.jpg,bubble,bubble,0.12639164924621582
+image59,image59_01_01.jpg,bonnet,"bonnet, poke bonnet",0.3941515684127808
+image59,image59_01_02.jpg,seat belt,"seat belt, seatbelt",0.4547088146209717
+image59,image59_02_01.jpg,ice lolly,"ice lolly, lolly, lollipop, popsicle",0.6168442964553833
+image59,image59_02_02.jpg,cowboy hat,"cowboy hat, ten-gallon hat",0.10868256539106368
+image6,image6.jpg,cellular telephone,"cellular telephone, cellular phone, cellphone, cell, mobile phone",0.19344578683376312
+image6,image6_01_01.jpg,Polaroid camera,"Polaroid camera, Polaroid Land camera",0.2756386995315552
+image6,image6_01_02.jpg,cellular telephone,"cellular telephone, cellular phone, cellphone, cell, mobile phone",0.061483073979616165
+image6,image6_02_01.jpg,muzzle,muzzle,0.11958882957696915
+image6,image6_02_02.jpg,oxygen mask,oxygen mask,0.0633644238114357
+image60,image60.jpg,sunglasses,"sunglasses, dark glasses, shades",0.18276020884513852
+image60,image60_01_01.jpg,swimming trunks,"swimming trunks, bathing trunks",0.056224383413791656
+image60,image60_01_02.jpg,cellular telephone,"cellular telephone, cellular phone, cellphone, cell, mobile phone",0.7675192952156067
+image60,image60_02_01.jpg,neck brace,neck brace,0.0772506520152092
+image60,image60_02_02.jpg,shower cap,shower cap,0.2670042812824249
+image61,image61.jpg,bathtub,"bathtub, bathing tub, bath, tub",0.109376922249794
+image61,image61_01_01.jpg,pajama,"pajama, pyjama, pj's, jammies",0.04169030487537384
+image61,image61_01_02.jpg,cellular telephone,"cellular telephone, cellular phone, cellphone, cell, mobile phone",0.2549312114715576
+image61,image61_02_01.jpg,water bottle,water bottle,0.08702782541513443
+image61,image61_02_02.jpg,wig,wig,0.2671788036823273
+image62,image62.jpg,feather boa,"feather boa, boa",0.4206206798553467
+image62,image62_01_01.jpg,wig,wig,0.41237154603004456
+image62,image62_01_02.jpg,Afghan hound,"Afghan hound, Afghan",0.24244846403598785
+image62,image62_02_01.jpg,bonnet,"bonnet, poke bonnet",0.21118323504924771
+image62,image62_02_02.jpg,wig,wig,0.9638357162475586
+image63,image63.jpg,lipstick,"lipstick, lip rouge",0.07187704741954802
+image63,image63_01_01.jpg,wig,wig,0.9638863205909728
+image63,image63_01_02.jpg,wig,wig,0.4466533362865448
+image63,image63_02_01.jpg,wig,wig,0.8914486169815063
+image63,image63_02_02.jpg,wig,wig,0.1482987105846405
+image64,image64.jpg,shower cap,shower cap,0.8431773781776428
+image64,image64_01_01.jpg,hair slide,hair slide,0.8256512284278871
+image64,image64_01_02.jpg,shower cap,shower cap,0.7751099467277527
+image64,image64_02_01.jpg,lipstick,"lipstick, lip rouge",0.6433202624320984
+image64,image64_02_02.jpg,brassiere,"brassiere, bra, bandeau",0.2277085930109024
+image65,image65.jpg,seat belt,"seat belt, seatbelt",0.5759211182594299
+image65,image65_01_01.jpg,wig,wig,0.20900128781795504
+image65,image65_01_02.jpg,seat belt,"seat belt, seatbelt",0.3871944546699524
+image65,image65_02_01.jpg,brassiere,"brassiere, bra, bandeau",0.2485788613557816
+image65,image65_02_02.jpg,wig,wig,0.3680102229118347
+image66,image66.jpg,shovel,shovel,0.7767406702041626
+image66,image66_01_01.jpg,cloak,cloak,0.2926020920276642
+image66,image66_01_02.jpg,snowmobile,snowmobile,0.1531159281730652
+image66,image66_02_01.jpg,shovel,shovel,0.4273295998573303
+image66,image66_02_02.jpg,shovel,shovel,0.3308704495429993
+image67,image67.jpg,park bench,park bench,0.41001152992248535
+image67,image67_01_01.jpg,bannister,"bannister, banister, balustrade, balusters, handrail",0.07361135631799698
+image67,image67_01_02.jpg,pay-phone,"pay-phone, pay-station",0.6439778804779053
+image67,image67_02_01.jpg,park bench,park bench,0.5305694937705994
+image67,image67_02_02.jpg,park bench,park bench,0.2758405804634094
+image68,image68.jpg,groom,"groom, bridegroom",0.2812197208404541
+image68,image68_01_01.jpg,candle,"candle, taper, wax light",0.11416740715503693
+image68,image68_01_02.jpg,limousine,"limousine, limo",0.4680536985397339
+image68,image68_02_01.jpg,water jug,water jug,0.15155628323554993
+image68,image68_02_02.jpg,miniskirt,"miniskirt, mini",0.5174137949943542
+image69,image69.jpg,cowboy hat,"cowboy hat, ten-gallon hat",0.1424848735332489
+image69,image69_01_01.jpg,jersey,"jersey, T-shirt, tee shirt",0.03979232534766197
+image69,image69_01_02.jpg,jean,"jean, blue jean, denim",0.10324037075042723
+image69,image69_02_01.jpg,lumbermill,"lumbermill, sawmill",0.10428862273693083
+image69,image69_02_02.jpg,coho,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",0.3765155076980591
+image7,image7.jpg,sunglass,sunglass,0.13666823506355286
+image7,image7_01_01.jpg,sunglasses,"sunglasses, dark glasses, shades",0.09885196387767793
+image7,image7_01_02.jpg,bikini,"bikini, two-piece",0.14035256206989288
+image7,image7_02_01.jpg,bath towel,bath towel,0.4018415808677673
+image7,image7_02_02.jpg,cliff,"cliff, drop, drop-off",0.6438221335411072
+image70,image70.jpg,sunglass,sunglass,0.4326527118682861
+image70,image70_01_01.jpg,sunglass,sunglass,0.4638654589653015
+image70,image70_01_02.jpg,sunglass,sunglass,0.14579463005065918
+image70,image70_02_01.jpg,gar,"gar, garfish, garpike, billfish, Lepisosteus osseus",0.18636666238307956
+image70,image70_02_02.jpg,sunscreen,"sunscreen, sunblock, sun blocker",0.3373458981513977
+image71,image71.jpg,maillot,maillot,0.5605475306510925
+image71,image71_01_01.jpg,sunglasses,"sunglasses, dark glasses, shades",0.3422701954841614
+image71,image71_01_02.jpg,sunglass,sunglass,0.37405541539192205
+image71,image71_02_01.jpg,maillot,maillot,0.09125806391239166
+image71,image71_02_02.jpg,maillot,maillot,0.33888715505599976
+image72,image72.jpg,park bench,park bench,0.4509440958499909
+image72,image72_01_01.jpg,suspension bridge,suspension bridge,0.09221423417329787
+image72,image72_01_02.jpg,tench,"tench, Tinca tinca",0.08786007016897203
+image72,image72_02_01.jpg,cardigan,cardigan,0.9261332154273988
+image72,image72_02_02.jpg,cardigan,cardigan,0.3817369341850281
+image73,image73.jpg,knee pad,knee pad,0.3767196834087372
+image73,image73_01_01.jpg,neck brace,neck brace,0.5603141784667969
+image73,image73_01_02.jpg,wig,wig,0.17541247606277466
+image73,image73_02_01.jpg,miniskirt,"miniskirt, mini",0.7820287346839905
+image73,image73_02_02.jpg,miniskirt,"miniskirt, mini",0.7533915638923645
+image74,image74.jpg,lakeside,"lakeside, lakeshore",0.8654680848121643
+image74,image74_01_01.jpg,lakeside,"lakeside, lakeshore",0.4508650302886963
+image74,image74_01_02.jpg,sandbar,"sandbar, sand bar",0.11449107527732848
+image74,image74_02_01.jpg,barracouta,"barracouta, snoek",0.09188556671142578
+image74,image74_02_02.jpg,trench coat,trench coat,0.10605750977993013
+image75,image75.jpg,sunglasses,"sunglasses, dark glasses, shades",0.11066389083862303
+image75,image75_01_01.jpg,umbrella,umbrella,0.4914378523826599
+image75,image75_01_02.jpg,whistle,whistle,0.6075533628463745
+image75,image75_02_01.jpg,soup bowl,soup bowl,0.1310238391160965
+image75,image75_02_02.jpg,fig,fig,0.26371118426322937
+image76,image76.jpg,seat belt,"seat belt, seatbelt",0.6466895937919617
+image76,image76_01_01.jpg,seat belt,"seat belt, seatbelt",0.2964536249637604
+image76,image76_01_02.jpg,seat belt,"seat belt, seatbelt",0.2818910181522369
+image76,image76_02_01.jpg,seat belt,"seat belt, seatbelt",0.26596519351005554
+image76,image76_02_02.jpg,seat belt,"seat belt, seatbelt",0.7481046319007874
+image77,image77.jpg,lipstick,"lipstick, lip rouge",0.1820514649152756
+image77,image77_01_01.jpg,lipstick,"lipstick, lip rouge",0.3151150345802307
+image77,image77_01_02.jpg,hand blower,"hand blower, blow dryer, blow drier, hair dryer, hair drier",0.07023823261260986
+image77,image77_02_01.jpg,lipstick,"lipstick, lip rouge",0.8795091509819031
+image77,image77_02_02.jpg,bath towel,bath towel,0.3888395726680756
+image78,image78.jpg,maillot,maillot,0.03602628782391548
+image78,image78_01_01.jpg,seat belt,"seat belt, seatbelt",0.20200960338115687
+image78,image78_01_02.jpg,wig,wig,0.20650605857372284
+image78,image78_02_01.jpg,sunglasses,"sunglasses, dark glasses, shades",0.10372015088796616
+image78,image78_02_02.jpg,brassiere,"brassiere, bra, bandeau",0.3029553592205048
+image79,image79.jpg,seat belt,"seat belt, seatbelt",0.9978526830673218
+image79,image79_01_01.jpg,seat belt,"seat belt, seatbelt",0.1179489716887474
+image79,image79_01_02.jpg,seat belt,"seat belt, seatbelt",0.9187299609184264
+image79,image79_02_01.jpg,seat belt,"seat belt, seatbelt",0.9214745759963988
+image79,image79_02_02.jpg,sunglasses,"sunglasses, dark glasses, shades",0.15090516209602356
+image8,image8.jpg,cellular telephone,"cellular telephone, cellular phone, cellphone, cell, mobile phone",0.3253006339073181
+image8,image8_01_01.jpg,reflex camera,reflex camera,0.19121083617210388
+image8,image8_01_02.jpg,medicine chest,"medicine chest, medicine cabinet",0.5069763660430908
+image8,image8_02_01.jpg,harmonica,"harmonica, mouth organ, harp, mouth harp",0.1665472835302353
+image8,image8_02_02.jpg,nail,nail,0.9223251342773438
+image80,image80.jpg,jersey,"jersey, T-shirt, tee shirt",0.3656574785709381
+image80,image80_01_01.jpg,shower curtain,shower curtain,0.844771146774292
+image80,image80_01_02.jpg,seat belt,"seat belt, seatbelt",0.054156813770532615
+image80,image80_02_01.jpg,wig,wig,0.09516489505767822
+image80,image80_02_02.jpg,sunglasses,"sunglasses, dark glasses, shades",0.28881072998046875
+image81,image81.jpg,pier,pier,0.7195171117782593
+image81,image81_01_01.jpg,pier,pier,0.5664348006248474
+image81,image81_01_02.jpg,pier,pier,0.6027708649635315
+image81,image81_02_01.jpg,clog,"clog, geta, patten, sabot",0.2899015545845032
+image81,image81_02_02.jpg,lakeside,"lakeside, lakeshore",0.10020174831151962
+image82,image82.jpg,sunglass,sunglass,0.17175333201885226
+image82,image82_01_01.jpg,sunglasses,"sunglasses, dark glasses, shades",0.7312589287757874
+image82,image82_01_02.jpg,mortarboard,mortarboard,0.41822031140327454
+image82,image82_02_01.jpg,backpack,"backpack, back pack, knapsack, packsack, rucksack, haversack",0.4464410543441773
+image82,image82_02_02.jpg,head cabbage,head cabbage,0.4722276329994202
+image83,image83.jpg,maillot,maillot,0.10600323975086212
+image83,image83_01_01.jpg,microphone,"microphone, mike",0.17880159616470334
+image83,image83_01_02.jpg,microphone,"microphone, mike",0.07902960479259491
+image83,image83_02_01.jpg,bearskin,"bearskin, busby, shako",0.16298221051692965
+image83,image83_02_02.jpg,fur coat,fur coat,0.034235410392284386
+image84,image84.jpg,toaster,toaster,0.0886026918888092
+image84,image84_01_01.jpg,hoopskirt,"hoopskirt, crinoline",0.3885841369628906
+image84,image84_01_02.jpg,harmonica,"harmonica, mouth organ, harp, mouth harp",0.34926268458366394
+image84,image84_02_01.jpg,barrel,"barrel, cask",0.09722749888896942
+image84,image84_02_02.jpg,soap dispenser,soap dispenser,0.8164305686950684
+image85,image85.jpg,fur coat,fur coat,0.4992518424987793
+image85,image85_01_01.jpg,fur coat,fur coat,0.8702778220176697
+image85,image85_01_02.jpg,park bench,park bench,0.3224406242370605
+image85,image85_02_01.jpg,sliding door,sliding door,0.11940602958202362
+image85,image85_02_02.jpg,Loafer,Loafer,0.072476826608181
+image86,image86.jpg,bubble,bubble,0.5042459368705751
+image86,image86_01_01.jpg,neck brace,neck brace,0.287221759557724
+image86,image86_01_02.jpg,microphone,"microphone, mike",0.14403292536735535
+image86,image86_02_01.jpg,pajama,"pajama, pyjama, pj's, jammies",0.12264901399612428
+image86,image86_02_02.jpg,cowboy hat,"cowboy hat, ten-gallon hat",0.2680974006652832
+image87,image87.jpg,seat belt,"seat belt, seatbelt",0.8553332090377808
+image87,image87_01_01.jpg,seat belt,"seat belt, seatbelt",0.9362378716468812
+image87,image87_01_02.jpg,seat belt,"seat belt, seatbelt",0.8433738350868225
+image87,image87_02_01.jpg,Band Aid,Band Aid,0.13231173157691956
+image87,image87_02_02.jpg,dial telephone,"dial telephone, dial phone",0.4569514691829682
+image88,image88.jpg,bathing cap,"bathing cap, swimming cap",0.20476771891117096
+image88,image88_01_01.jpg,sea lion,sea lion,0.19551235437393188
+image88,image88_01_02.jpg,bikini,"bikini, two-piece",0.2640780806541443
+image88,image88_02_01.jpg,bikini,"bikini, two-piece",0.2009468972682953
+image88,image88_02_02.jpg,bikini,"bikini, two-piece",0.4251244366168976
+image89,image89.jpg,bikini,"bikini, two-piece",0.6204751133918762
+image89,image89_01_01.jpg,hair slide,hair slide,0.0584731474518776
+image89,image89_01_02.jpg,neck brace,neck brace,0.05125351250171661
+image89,image89_02_01.jpg,bubble,bubble,0.18775106966495514
+image89,image89_02_02.jpg,brassiere,"brassiere, bra, bandeau",0.8260189294815063
+image9,image9.jpg,bikini,"bikini, two-piece",0.7192346453666687
+image9,image9_01_01.jpg,bikini,"bikini, two-piece",0.33186015486717224
+image9,image9_01_02.jpg,bikini,"bikini, two-piece",0.2885482907295227
+image9,image9_02_01.jpg,bikini,"bikini, two-piece",0.37134310603141785
+image9,image9_02_02.jpg,diaper,"diaper, nappy, napkin",0.2528010606765747
+image90,image90.jpg,stole,stole,0.7027170658111572
+image90,image90_01_01.jpg,seat belt,"seat belt, seatbelt",0.19189733266830444
+image90,image90_01_02.jpg,bikini,"bikini, two-piece",0.09028517454862596
+image90,image90_02_01.jpg,bubble,bubble,0.4608779847621918
+image90,image90_02_02.jpg,bubble,bubble,0.8920094966888428
+image91,image91.jpg,tench,"tench, Tinca tinca",0.22627897560596466
+image91,image91_01_01.jpg,bikini,"bikini, two-piece",0.09500307589769363
+image91,image91_01_02.jpg,sunglass,sunglass,0.34434619545936584
+image91,image91_02_01.jpg,canoe,canoe,0.2530524730682373
+image91,image91_02_02.jpg,potter's wheel,potter's wheel,0.08358809351921083
+image92,image92.jpg,seat belt,"seat belt, seatbelt",0.9697364568710328
+image92,image92_01_01.jpg,pick,"pick, plectrum, plectron",0.05826571211218834
+image92,image92_01_02.jpg,seat belt,"seat belt, seatbelt",0.21645699441432956
+image92,image92_02_01.jpg,seat belt,"seat belt, seatbelt",0.874484658241272
+image92,image92_02_02.jpg,seat belt,"seat belt, seatbelt",0.9998431205749512
+image93,image93.jpg,wig,wig,0.8037253022193909
+image93,image93_01_01.jpg,lipstick,"lipstick, lip rouge",0.3207506239414215
+image93,image93_01_02.jpg,wig,wig,0.20187987387180328
+image93,image93_02_01.jpg,bath towel,bath towel,0.07606756687164308
+image93,image93_02_02.jpg,wig,wig,0.11063436418771744
+image94,image94.jpg,car mirror,car mirror,0.9903434514999391
+image94,image94_01_01.jpg,car mirror,car mirror,0.7895673513412476
+image94,image94_01_02.jpg,car mirror,car mirror,0.6215811967849731
+image94,image94_02_01.jpg,wing,wing,0.18009094893932345
+image94,image94_02_02.jpg,car mirror,car mirror,0.9833269715309144
+image95,image95.jpg,window screen,window screen,0.22497695684432986
+image95,image95_01_01.jpg,window screen,window screen,0.4043183624744415
+image95,image95_01_02.jpg,window screen,window screen,0.4568224251270294
+image95,image95_02_01.jpg,doormat,"doormat, welcome mat",0.052438877522945404
+image95,image95_02_02.jpg,cellular telephone,"cellular telephone, cellular phone, cellphone, cell, mobile phone",0.07730180770158768
+image96,image96.jpg,bikini,"bikini, two-piece",0.1670692414045334
+image96,image96_01_01.jpg,wig,wig,0.09411563724279404
+image96,image96_01_02.jpg,window shade,window shade,0.458471029996872
+image96,image96_02_01.jpg,wig,wig,0.4583991765975952
+image96,image96_02_02.jpg,wig,wig,0.8917542099952698
+image97,image97.jpg,pajama,"pajama, pyjama, pj's, jammies",0.6609048843383789
+image97,image97_01_01.jpg,window shade,window shade,0.5778453946113586
+image97,image97_01_02.jpg,pajama,"pajama, pyjama, pj's, jammies",0.8764998912811279
+image97,image97_02_01.jpg,pajama,"pajama, pyjama, pj's, jammies",0.607907772064209
+image97,image97_02_02.jpg,pajama,"pajama, pyjama, pj's, jammies",0.9743345975875854
+image98,image98.jpg,limousine,"limousine, limo",0.4045303463935852
+image98,image98_01_01.jpg,seat belt,"seat belt, seatbelt",0.4223988354206085
+image98,image98_01_02.jpg,seat belt,"seat belt, seatbelt",0.4255150854587555
+image98,image98_02_01.jpg,groom,"groom, bridegroom",0.3893952667713165
+image98,image98_02_02.jpg,groom,"groom, bridegroom",0.5501509308815002
+image99,image99.jpg,sunglasses,"sunglasses, dark glasses, shades",0.6227167844772339
+image99,image99_01_01.jpg,sunglasses,"sunglasses, dark glasses, shades",0.5782428383827211
+image99,image99_01_02.jpg,sunglasses,"sunglasses, dark glasses, shades",0.6798941493034363
+image99,image99_02_01.jpg,Newfoundland,"Newfoundland, Newfoundland dog",0.14720433950424194
+image99,image99_02_02.jpg,candle,"candle, taper, wax light",0.3557570874691009

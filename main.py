@@ -93,7 +93,7 @@ for i in range(1,len(files_folder)):
             sliced_filename.append(files_sliced[j])
             
             df = pd.DataFrame({"File Name": main_filename, "Sliced File Name": sliced_filename, "Description": description, "Certainty": score})
-            df.to_csv('Results2' + '.csv', index=False)
+            df.to_csv('ladies' + '.csv', index=False)
             
         t2 = time.time()
         

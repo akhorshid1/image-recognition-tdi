@@ -23,7 +23,7 @@ class main():
     
     def __init__(self):
         home = os.getcwd()
-        self.file = home + '/results.csv'
+        self.file = home + '/ladies.csv'
         self.df = pd.read_csv(self.file)
         
     def analyze_files(self):
@@ -127,16 +127,16 @@ class main():
         df_truncated_description = pd.DataFrame({'Truncated Description': truncated_description})
         self.df = self.df.join(df_truncated_description)
         self.df = self.df[['File Name', 'Sliced File Name', 'Truncated Description', 'Description', 'Certainty']]         
-        self.df.to_csv('organized_results1' + '.csv', index=False)
+        self.df.to_csv('ladies_organized' + '.csv', index=False)
         
         return self.df
     
     def obtain_score(self):
-        file_name = 'image362' # Name of the file we are comparing to
+        file_name = 'image0' # Name of the file we are comparing to
 #        file_name = 'image2088'
         
         score = []
-        self.df = pd.read_csv('organized_results.csv')
+        self.df = pd.read_csv('ladies_organized.csv')
         self.df = self.df[['File Name', 'Truncated Description', 'Certainty']]
         
         # Return unique file name with a list of descriptions:
@@ -207,7 +207,7 @@ class main():
     
     def plot_histogram(self):
         
-        self.df = pd.read_csv('/Users/akhorshid/Documents/Python/Image_Classification_V1/Organized Results.csv')
+        self.df = pd.read_csv('ladies_organized.csv')
         # Dropping all rows that contain an underscore within the str:
 #        self.df1 = self.df[~self.df['Sliced File Name'].str.contains('_')]
         
@@ -224,7 +224,7 @@ class main():
         plt.ylabel('Count')
         plt.legend(loc='upper right', fontsize = 10)
         plt.show()
-        plt.savefig('Figure_9.pdf', bbox_inches = "tight")
+#        plt.savefig('histogram.pdf', bbox_inches = "tight")
         
         
         return self.df1
@@ -232,7 +232,7 @@ class main():
     
     def compare_histogram(self):
         
-        self.df = pd.read_csv('/Users/akhorshid/Documents/Python/Image_Classification_V1/Organized Results.csv')
+        self.df = pd.read_csv('organized_results.csv')
         # Dropping all rows that contain an underscore within the str:
         self.df1 = self.df[~self.df['Sliced File Name'].str.contains('_')]   # Orginal images
         self.df2 = self.df[self.df['Sliced File Name'].str.contains('_')]    # Sliced images
@@ -273,7 +273,6 @@ class main():
         ratio = self.df2['Count'][0:50]/self.df1['Count'][0:50]
         
         
-        
         description_array1 = np.asarray(self.df1['Truncated Description'][0:50])
         count_array1 = np.asarray(self.df1['Count'][0:50]*100)
         
@@ -287,9 +286,8 @@ class main():
         plt.ylabel('Count (%)')
         plt.legend(loc='upper right', fontsize = 10)
         
-        
-#        plt.show()
-        plt.savefig('Frequency.pdf', bbox_inches = "tight")
+        plt.show()
+#        plt.savefig('Frequency.pdf', bbox_inches = "tight")
         
         
         return self.df1, self.df2, ratio
